@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+ollama
+python-multipart
+pydantic
+requests
