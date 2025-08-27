@@ -4,3 +4,4 @@ ollama
 python-multipart
 pydantic
 requests
+PyPDF2
